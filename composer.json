@@ -1,0 +1,16 @@
+{
+    "name": "apolm01-026/pruebaphp",
+    "description":"prueba",
+    "autoload": {
+        "psr-4": {
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "AndresFelipeContrerasRodriguezCAMPUS",
+            "email": "felipecr3456@gmail.com"
+        }
+    ],
+    "require": {}
+}
